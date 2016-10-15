@@ -123,7 +123,7 @@ for (i in timeframe){
   }
   
   else{
-    unstacked <- merge(unstacked,w2, by="RSSDId", all.x=TRUE,all.y = TRUE)
+    unstacked <- merge(unstacked,w2, all.x=TRUE,all.y = TRUE)
   }
   
   #head(unstacked)

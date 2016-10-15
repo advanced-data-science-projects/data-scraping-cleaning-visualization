@@ -11,9 +11,10 @@ Part 1
 
 Part 2
 - Scraping the Pier 1 bank's data for all Quarters
-- Data is scrapped from https://www.ffiec.gov/nicpubweb/nicweb/Y15SnapShot.aspx
+- Data is scrapped from https://www.ffiec.gov/nicpubweb/content/BHCPRRPT/BHCPR_Peer.htm
 - R code to clean data from very messy conversion of PDF to Data frames in R
 - Used 'tabulizers' project from GITHUB to use function extract_tables()
 
 Part 3
--  analyzing the Banking Organization Systemic Risk Reports for the years 2012, 2013 and 2014.
+- Analyzing the Banking Organization Systemic Risk Reports for the years 2012, 2013 and 2014
+-https://www.ffiec.gov/nicpubweb/nicweb/Y15SnapShot.aspx

@@ -16,4 +16,4 @@ Part 2
 - Used 'tabulizers' project from GITHUB to use function extract_tables()
 
 Part 3
--
+-  analyzing the Banking Organization Systemic Risk Reports for the years 2012, 2013 and 2014.
